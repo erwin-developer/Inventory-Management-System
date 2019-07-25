@@ -1,2 +1,3 @@
 # Inventory-Management-System
-PHP MySQL
+PHP MySQL  
+[Developer](https://www.erwinagpasa.com "Developer Website")
